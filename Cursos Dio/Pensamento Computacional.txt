@@ -1,0 +1,19 @@
+Objetivo: Capacidade de Pensar entender e pensar computacionalmente. Resolver problema com objetividade e eficiencia.
+
+PILARES:
+Decomposição
+Reconhecimento de Padrões
+Abstração
+Algoritmos
+
+Decompisição: Dividir um problema complexo em subproblemas.
+Reconhecimento de Padrões: Identificar padrões ou tendências. Similaridade, diferenças entre os problemas.
+Abstração: Extrapolar o conceito de problemas para uma forma generalizada.
+Algoritmo: Automatizar, definir passo a passo a solução do problema.
+
+Raciocínio Lógico: É uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a solução ou determinar a resolução de um problema.
+                   Ele éestruturado em 3 tipos:
+Indução: Fenomeno observado, indicação, leis e teorias.
+Dedução: Ocorre inverso a indução dado a leis e teorias, dedução, previsões e explicações, muito utilizado dentro da ciências exatas.
+Abdução: Utiliza-se da conclusão para chegar à prenissa. Esse tipo de raciocínio pode resultar em erro, assim como a indução.
+
